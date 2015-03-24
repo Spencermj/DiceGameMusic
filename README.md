@@ -1,1 +1,33 @@
-# DiceGameMusic
+# Problem
+We want to analyze the advantages of Dice Game Music and see how it has been used in the past.
+
+# Question
+1. What is dice game music?
+2. How has this been used?
+3. How does dice game music sound?
+
+# Resources
+1.
+2. 
+3. 
+
+### 1. What is dice game music?
+
+
+This resource answers the question 1: what is dice game music?
+
+### 2. How has this been used?
+
+According to [Generative Music], the British company Sseyo created a program in 1996 that was capable of creating ambient music on the spot. By using the idea of dice game music, Sseyo created a program that would generate melodic themes and randomly arrange them to play fluidly. This program, referred to as Koan, allows the user to choose values for around 150 paramaters such as pitch, rythm, harmony, and tempo and create a new song each time it is run. As would be expected, Koan was programmed to go into great detail on obvious structural elements such as melody, rythm, and harmony. In addition, though, the program attempts to mimic subtle expressive factors such as micro-variations of pitch and dynamics, shades of timbre, and spatial placement. Programs like Koan give a good idea of how a simple, minimalistic song can easily be created with the use of code.
+
+This resource answers question 2: how has this been used already?
+
+### 3. How does dice game music sound?
+
+Due to the nature in which it creates music, Koan is more suited to creating minimalistic, ambient pieces of music. Obviously, it is much easier to generate music with no overall theme or any general idea than it is to create a piece with recurring themes and deep interaction between parts. [Generative Song]
+
+This resource answers question 3: how does dice game music sound?
+
+[Generative Music]: http://www.timeshighereducation.co.uk/features/dice-game-music/94232.article
+[Generative Song]: https://www.youtube.com/watch?v=md2bPDXJqYs
+[Machine Learning]: 
