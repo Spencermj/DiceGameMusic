@@ -28,9 +28,9 @@ This resource answers question 2: how has this been used already?
 
 [Generative Song] is a recording that was made by Koan. Due to the nature in which it creates music, Koan is more suited to creating minimalistic, ambient pieces of music. Obviously, it is much easier to generate music with no overall theme or any general idea than it is to create a piece with recurring themes and deep interaction between parts. Although it has its limitations, Koan still makes very fluid music that sounds like a human could have composed it. 
 
-[Dice Game Song] is a record
+[Dice Game Song] is a recording of music made with a program that follows the rules of Mozart's Dice Game. This recording shows how fluid the compositions made with the original dice game were. Despite not having any attributes to keep track of the current state of the song, Mozart's Dice Game does an excellent job of creating randomly generate music. This is due to the fact that the rules he wrote make sure that each melodic phrase only goes in a place in the song where it would fit. The basic structure of any song created with Mozart's Dice Game will be the same, meaning that the same type of melodic phrase will be played at the same time in every single song made according to Mozart's rules. The randomness of which exact phrases are picked each time, though, causes every song created to sound different.
 
-There is still a question of whether other types of music 
+There is still a question of whether other types of music can be created using the same ideas as Mozart's Dice Game. Although could be entirely possible, any music with lyrics or any music with a great deal of interaction between multiple parts would most likely be incredibly hard to make sound fluid. Mozart's Dice Game is an excellent way to go about creating minimalistic music such as classical or ambient music, but a different algorithm would most likely be required to form fluid music from other genres.
 
 This resource answers question 3: how does dice game music sound?
 
