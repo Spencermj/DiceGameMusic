@@ -26,7 +26,11 @@ This resource answers question 2: how has this been used already?
 
 ### 3. How does dice game music sound?
 
-Due to the nature in which it creates music, Koan is more suited to creating minimalistic, ambient pieces of music. Obviously, it is much easier to generate music with no overall theme or any general idea than it is to create a piece with recurring themes and deep interaction between parts. [Generative Song]
+[Generative Song] is a recording that was made by Koan. Due to the nature in which it creates music, Koan is more suited to creating minimalistic, ambient pieces of music. Obviously, it is much easier to generate music with no overall theme or any general idea than it is to create a piece with recurring themes and deep interaction between parts. Although it has its limitations, Koan still makes very fluid music that sounds like a human could have composed it. 
+
+[Dice Game Song] is a record
+
+There is still a question of whether other types of music 
 
 This resource answers question 3: how does dice game music sound?
 
@@ -34,3 +38,4 @@ This resource answers question 3: how does dice game music sound?
 [Java Dice Game]: http://explodingart.com/jmusic/jmtutorial/MozartDiceGame.html
 [Generative Music]: http://www.timeshighereducation.co.uk/features/dice-game-music/94232.article
 [Generative Song]: https://www.youtube.com/watch?v=md2bPDXJqYs
+[Dice Game Song]: https://vimeo.com/70823800
