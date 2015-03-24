@@ -11,12 +11,13 @@ We want to analyze the advantages of Dice Game Music and see how it has been use
 2. [Java Dice Game]
 3. [Generative Music]
 4. [Generative Song]
+5. [Dice Game Song]
 
 ### 1. What is dice game music?
 
 The idea of dice games first originated from [Mozart's Dice Game]. Although many composers experimented with the idea around his time, Mozart takes full credit for the idea. Mozart's idea was to essentially make an algorithm to create a song, to accomplish this he wrote 272 musical measures and a table of rules to follow. The table of rules described how to pick pre-written measures of music one at a time based off of the roll of a die, this resulted in a completely random composition every time and approximately 1.3 * (10^29) different songs that could be generated. Mozart proved that it is very easy to create music when given a set of specific rules and a list of melodic theme, once the list has been created it is not hard to simply rearrange each theme and put it in the appropriate place. [Java Dice Game] shows how simple it can be to write a program that uses pre-written melodic phrases given a set of rules. Although this program uses the measures of music that Mozart wrote, a similar program could be written that creates its own short phrases of music, picks and arranges them somewhat randomly, and uses a set of rules to make sure it is fluid.
 
-This resource answers the question 1: what is dice game music?
+These resource answer the question 1: what is dice game music?
 
 ### 2. How has this been used?
 
@@ -32,7 +33,7 @@ This resource answers question 2: how has this been used already?
 
 There is still a question of whether other types of music can be created using the same ideas as Mozart's Dice Game. Although could be entirely possible, any music with lyrics or any music with a great deal of interaction between multiple parts would most likely be incredibly hard to make sound fluid. Mozart's Dice Game is an excellent way to go about creating minimalistic music such as classical or ambient music, but a different algorithm would most likely be required to form fluid music from other genres.
 
-This resource answers question 3: how does dice game music sound?
+These resources answer question 3: how does dice game music sound?
 
 [Mozart's Dice Game]: http://www.amaranthpublishing.com/MozartDiceGame.htm
 [Java Dice Game]: http://explodingart.com/jmusic/jmtutorial/MozartDiceGame.html
